@@ -2,7 +2,7 @@
 Welcome to my GitHub profile! I'm Pedro Markovicz, a passionate Data Science enthusiast dedicated to transforming data into meaningful insights and impactful solutions. I'm continuously learning and growing in the field, and this space showcases my journey through a collection of projects that reflect my curiosity, skills, and commitment to solving real-world problems.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-markovicz/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@PedroMarkovicz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pedro.henrique.markovicz@gmail.com) 
 
 # 💻 Tech Stack:
