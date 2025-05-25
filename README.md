@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Pedro!
-Welcome to my GitHub profile! I'm Pedro Markovicz, a passionate Data Science enthusiast dedicated to transforming data into meaningful insights and impactful solutions. I'm continuously learning and growing in the field, and this space showcases my journey through a collection of projects that reflect my curiosity, skills, and commitment to solving real-world problems.
+Welcome to my GitHub profile! I'm Pedro Markovicz, a passionate Data Science dedicated to transforming data into meaningful insights and impactful solutions. I'm continuously learning and growing in the field, and this space showcases my journey through a collection of projects that reflect my curiosity, skills, and commitment to solving real-world problems.
 
 
 # 🌐 Socials:
