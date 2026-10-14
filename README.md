@@ -8,6 +8,7 @@
 
 <a href="https://www.linkedin.com/in/pedro-markovicz/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://medium.com/@PedroMarkovicz"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+<a href="https://orcid.org/0009-0006-6878-793X"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID" /></a>
 <a href="mailto:pedro.henrique.markovicz@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 <!-- When the portfolio site exists, put its button here:
@@ -22,7 +23,7 @@
 
 I'm Pedro, a Data Scientist and AI Engineer. I trained as an engineer before moving into data science, and I work on machine learning and AI systems that run in production and answer a business question.
 
-My experience covers forecasting and churn pipelines on Azure and Google Cloud, a multi-agent LangGraph system for analyzing commercial data, and LLM and computer vision workflows that review engineering documents. Agentic AI is the area I'm most interested in, and healthcare is a personal interest: my Master's dissertation in Data Science explores agents and RAG to make institutional clinical information easier to access.
+My experience covers forecasting and churn pipelines on Azure and Google Cloud, a multi-agent LangGraph system for analyzing commercial data, and LLM and computer vision workflows that review engineering documents. Agentic AI is the area I'm most interested in, and healthcare is a personal interest: my Master's dissertation in Data Science explores agents and RAG to make institutional clinical information easier to access. My latest project, [Tekmeria](https://github.com/PedroMarkovicz/tekmeria), brings the two together: an open-source MCP server whose biomedical citations can be checked against what it actually returned.
 
 I'm a Google Certified Professional Machine Learning Engineer, and I'm interested in **Data Scientist** and **AI Engineer** roles.
 
@@ -55,6 +56,24 @@ I deploy models and workflows on GCP (Vertex AI and Cloud Run) with Docker and C
 ## Featured projects
 
 <table>
+<tr>
+<td colspan="2" valign="top">
+
+<a href="https://github.com/PedroMarkovicz/tekmeria"><img src="assets/tekmeria.png" alt="Tekmeria" width="100%" /></a>
+
+**Is every citation in this answer real, and does it quote its source verbatim?**
+
+- An MCP server for PubMed, Europe PMC, ClinicalTrials.gov and openFDA that gives every passage a citation handle only it can issue
+- A deterministic audit flags forged, misquoted and retracted citations, whichever model wrote the answer
+- Released on PyPI and archived on Zenodo, with a technical note on the design and its evaluation
+
+<a href="https://pedromarkovicz.github.io/tekmeria/"><img src="https://img.shields.io/badge/%E2%96%B6%20Demo-2f5bd3?style=flat-square" alt="Demo" height="24" /></a>
+<a href="https://github.com/PedroMarkovicz/tekmeria"><img src="https://img.shields.io/badge/Repository-24292f?style=flat-square&logo=github&logoColor=white" alt="Repository" height="24" /></a>
+<a href="https://doi.org/10.5281/zenodo.23374728"><img src="https://img.shields.io/badge/Technical%20note-24292f?style=flat-square&logo=zenodo&logoColor=white" alt="Technical note" height="24" /></a>
+<a href="https://pypi.org/project/tekmeria/"><img src="https://img.shields.io/badge/PyPI-24292f?style=flat-square&logo=pypi&logoColor=white" alt="PyPI" height="24" /></a>
+
+</td>
+</tr>
 <tr>
 <td width="50%" valign="top">
 
